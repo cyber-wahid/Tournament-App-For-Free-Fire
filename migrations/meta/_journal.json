@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1756645598142,
+      "tag": "0000_round_zodiak",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1758285410297,
+      "tag": "0001_illegal_living_mummy",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1758288645128,
+      "tag": "0002_open_luminals",
+      "breakpoints": true
+    }
+  ]
+}
